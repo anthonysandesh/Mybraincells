@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "anthony",
     description: "Welcome to my brain cells!",
-    scheme: "system", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
