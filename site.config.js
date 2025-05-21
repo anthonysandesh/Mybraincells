@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "anthony",
+    title: "My Brain Cells",
     description: "Welcome to my brain cells!",
     scheme: "light", // 'light' | 'dark' | 'system'
   },
